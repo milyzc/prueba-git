@@ -1,0 +1,26 @@
+.
+└── [       4096]  .git
+    ├── [       4096]  branches
+    ├── [         92]  config
+    ├── [         73]  description
+    ├── [         23]  HEAD
+    ├── [       4096]  hooks
+    │   ├── [        452]  applypatch-msg.sample
+    │   ├── [        896]  commit-msg.sample
+    │   ├── [        189]  post-update.sample
+    │   ├── [        398]  pre-applypatch.sample
+    │   ├── [       1642]  pre-commit.sample
+    │   ├── [       1239]  prepare-commit-msg.sample
+    │   ├── [       1352]  pre-push.sample
+    │   ├── [       4898]  pre-rebase.sample
+    │   └── [       3611]  update.sample
+    ├── [       4096]  info
+    │   └── [        240]  exclude
+    ├── [       4096]  objects
+    │   ├── [       4096]  info
+    │   └── [       4096]  pack
+    └── [       4096]  refs
+        ├── [       4096]  heads
+        └── [       4096]  tags
+
+10 directories, 13 files
